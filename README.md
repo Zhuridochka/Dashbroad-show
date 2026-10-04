@@ -1,6 +1,8 @@
 Dashboard - It is an intuitive interface for displaying and analyzing data. 
 The project is implemented with a focus on adaptability, which ensures comfortable use on different devices and screens.
 
+🔗 **Demo:** https://zhuridochka.github.io/Dashbroad-show/home.html
+
 Key features:
 Adaptive table: Data table that is automatically transformed into cards when you change the width of the screen, providing easy access to information on mobile devices.
 Intuitive design: A simple and understandable interface that allows you to quickly find and analyze the data you need.
