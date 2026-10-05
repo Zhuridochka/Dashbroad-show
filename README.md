@@ -1,6 +1,12 @@
 Dashboard - It is an intuitive interface for displaying and analyzing data. 
 The project is implemented with a focus on adaptability, which ensures comfortable use on different devices and screens.
 
+## Screenshots
+
+| Desktop | Mobile |
+|---|---|
+|![Desktop](./previews/Dashbroad.jpg) | ![Tablet](./previews/Dashbroad_02.jpg)
+
 🔗 **Demo:** https://zhuridochka.github.io/Dashbroad-show/home.html
 
 Key features:
